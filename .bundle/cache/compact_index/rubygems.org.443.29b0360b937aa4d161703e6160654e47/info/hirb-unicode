@@ -1,0 +1,6 @@
+---
+0.0.1 hirb:~> 0.3.6,unicode-display_width:~> 0.1.1|checksum:75b61c64c6e2eec97ba2384704636ac006b8d2f6a63d018988691bf4ff2bde1e
+0.0.2 hirb:~> 0.3.6,unicode-display_width:~> 0.1.1|checksum:7054428710155400b9a1672b541cddb2c5a38957375a6a7165773b214142eaa6
+0.0.3 hirb:~> 0.3.6,unicode-display_width:~> 0.1.1|checksum:4ee7a79e69ba572aa66d117470f0c372b018aa987f03fc092796fbd411ed3f70
+0.0.4 hirb:~> 0.4.0,unicode-display_width:~> 0.1.1|checksum:2a875102cfb328d770b5be1cd18069f80bad0b121661fffb53799d336dcad4bf
+0.0.5 hirb:~> 0.5,unicode-display_width:~> 0.1.1|checksum:5302c08c2a6edb5eabfd5caff07f18df566d77d49d89cc856f725672839af0ac
